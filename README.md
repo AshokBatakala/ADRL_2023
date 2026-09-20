@@ -1,2 +1,2 @@
 # Advanced Deep Representation Learning - 2023
-This repo contains Assignements and Projects done as a part of "Advanced Deep Representation Learning - 2023" course by Dr. Pratosh AP.
+This repository contains assignments and projects completed as part of the Advanced Deep Representation Learning (2023) course taught by Dr. Pratosh AP.
